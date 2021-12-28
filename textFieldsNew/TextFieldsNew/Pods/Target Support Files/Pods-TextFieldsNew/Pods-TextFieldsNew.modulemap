@@ -1,0 +1,6 @@
+framework module Pods_TextFieldsNew {
+  umbrella header "Pods-TextFieldsNew-umbrella.h"
+
+  export *
+  module * { export * }
+}
